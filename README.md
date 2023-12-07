@@ -7,5 +7,8 @@ Attached please find the documents for the Module 6 Challenge within the Weather
     - Four .png files from the scatterplot analyses of city latitude vs. certain variables.
   - The VacationPY_SW.ipynb file that features all of the calculations and analyses for Part II.
 
+Note:
+The apikeys.py file utilized for this Challenge has been stored locally but not uploaded to GitHub as directed.
+
     Thank you!
     Sam Wallach
